@@ -22,7 +22,7 @@ If you’re new to Microsoft Azure Stack, these terms and feature descriptions m
 
 ## Personas
 
-There are two varieties of users for Microsoft Azure Stack, the service administrator and the tenant (customer).
+There's two varieties of users for Microsoft Azure Stack, the service administrator and the tenant (customer).
 
 | ![](media/azure-stack-key-features/image1.png) | A **service administrator** can configure and manage resource providers, tenant offers, plans, services, quotas, and pricing.                                                                                           |
 |---|---|
