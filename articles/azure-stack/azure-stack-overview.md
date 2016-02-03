@@ -18,7 +18,7 @@
 
 # Introduction to Azure Stack
 
-Azure Stack extends the Azure vision by bringing the cloud model of computing to every datacenter. Azure Stack is a new hybrid cloud platform product that enables organizations to deliver Azure services from their own datacenter in a way that is consistent with Azure.  In this way customers can focus on business innovation rather than spend time building their own cloud computing platform.   
+Azure Stack extends the Azure vision by bringing the cloud model of computing to every data center. Azure Stack is a new hybrid cloud platform product that enables organizations to deliver Azure services from their own datacenter in a way that is consistent with Azure.  In this way customers can focus on business innovation rather than spend time building their own cloud computing platform.   
 
 Organizations can create these Azure services from datacenter resources - enabling developers and IT professionals to quickly provision and scale services using the same self-service experience found in Azure.  The product also enables IT organizations to leverage the same management and automation tools used with Azure to customize the service delivery experience to the business units they serve.  
 
